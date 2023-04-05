@@ -1,0 +1,9 @@
+classes/
+
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.class
